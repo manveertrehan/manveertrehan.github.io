@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f7cf4c7.css",
+    "main.js": "/static/js/main.20ebffdd.js",
+    "static/js/787.0cd2892f.chunk.js": "/static/js/787.0cd2892f.chunk.js",
+    "static/media/mt.png": "/static/media/mt.55986ba1ae1054276f1c.png",
+    "static/media/playofftracker.png": "/static/media/playofftracker.bf7811c056b4c4d53901.png",
+    "static/media/ordertracker.png": "/static/media/ordertracker.588416df83ce0f370a25.png",
+    "static/media/resume.pdf": "/static/media/resume.3bbd35063bf980c81451.pdf",
+    "static/media/maillogo.png": "/static/media/maillogo.959e51845cc425da08c9.png",
+    "static/media/rlogo.png": "/static/media/rlogo.c1cfbc818d2b1ba7f06c.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.4f7cf4c7.css.map": "/static/css/main.4f7cf4c7.css.map",
+    "main.20ebffdd.js.map": "/static/js/main.20ebffdd.js.map",
+    "787.0cd2892f.chunk.js.map": "/static/js/787.0cd2892f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f7cf4c7.css",
+    "static/js/main.20ebffdd.js"
+  ]
+}
