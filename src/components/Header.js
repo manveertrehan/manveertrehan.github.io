@@ -1,5 +1,4 @@
 import React from 'react';
-import Pdf from '../docs/resume.pdf';
 
 
 export default class Header extends React.Component {

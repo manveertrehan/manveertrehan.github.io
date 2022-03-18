@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import Header from "./components/Header";
 import Projects from "./components/Projects";
 import Experience from "./components/Experience";
-import Pdf from './/docs/resume.pdf';
 import './App.css';
 import "./index.css";
 
