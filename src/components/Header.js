@@ -9,28 +9,28 @@ export default class Header extends React.Component {
                 <div>
                     <h1 className="nameHeader">
                         Manveer Trehan
-                </h1>
+                    </h1>
                     <div className="subheading">
-                        3rd year Computer Science student @ the University of British Columbia
-                </div>
+                        Computer Science @ the University of British Columbia
+                    </div>
                 </div>
                 <div>
                     <a href="https://github.com/manveertrehan" target="_blank">
-                        <img src={require('../images/ghlogo.png')} className="logo" alt="" />
+                        <img src={require('../images/ghlogo.png')} className="logo" alt="github_logo" />
                     </a>
                 </div>
                 <div>
                     <a href="mailto:manveertrehan01@gmail.com">
-                        <img src={require('../images/maillogo.png')} className="logo" alt="" />
+                        <img src={require('../images/maillogo.png')} className="logo" alt="mail_logo" />
                     </a>
                 </div>
                 <div>
                     <a href="https://github.com/manveertrehan/manveertrehan.github.io/raw/master/src/docs/mtresume.pdf" target="_blank">
-                        <img src={require('../images/rlogo.png')} className="logo" alt="" />
+                        <img src={require('../images/rlogo.png')} className="logo" alt="resume_logo" />
                     </a>
                 </div>
                 <div>
-                    <img src={require('../images/mt.png')} className="img" alt="" />
+                    <img src={require('../images/mt.png')} className="img" alt="profile_pic" />
                 </div>
             </div>
         );
