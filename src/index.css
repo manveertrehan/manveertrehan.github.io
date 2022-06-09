@@ -72,18 +72,12 @@ body {
     margin-left: 10px;
 }
 
-.date1 {
+.date {
     font-size: 12pt;
     font-weight: 150;
     margin-top: auto;
     margin-left: auto;
-}
-
-.date2 {
-    margin-top: auto;
-    margin-left: auto;
-    font-size: 12pt;
-    font-weight: 150;
+    margin-right: 6px;
 }
 
 .jobTitle {
@@ -130,7 +124,7 @@ body {
 }
 
 .jobBackground {
-  background-color: rgb(205, 205, 205);
+  background-color: rgb(239, 239, 239);
   border: 2px solid grey;
   border-radius: 10px;
 }
