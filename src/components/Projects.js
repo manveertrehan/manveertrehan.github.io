@@ -31,14 +31,7 @@ export default class Projects extends React.Component {
                     synopses) and scikit-learn for other preprocessing and training of the final model.
                     </div>
                     <div>
-                        <img src={require('..//images/moviepred.png')} alt=""
-                            style={{
-                                height: 550,
-                                width: 700,
-                                marginBottom: 3,
-                                marginTop: 5,
-                                marginLeft: 3,
-                            }} />
+                        <img src={require('..//images/moviepred.png')} className="movImg" alt="" />
                     </div>
                 </div>
 
@@ -68,14 +61,7 @@ export default class Projects extends React.Component {
                         <a href="https://manveertrehan.github.io/NHL-Playoff-Tracker/" target="_blank">Try it out!</a>
                     </div>
                     <div>
-                        <img src={require('..//images/playofftracker.png')} alt=""
-                            style={{
-                                height: 350,
-                                width: 700,
-                                marginBottom: 3,
-                                marginTop: 5,
-                                marginLeft: 3
-                            }} />
+                        <img src={require('..//images/playofftracker.png')} className="nhlImg" alt="" />
                     </div>
                 </div>
 
@@ -104,14 +90,7 @@ export default class Projects extends React.Component {
                         <a href="https://manveertrehan.github.io/Coin-Order-Tracker/" target="_blank">Try it out!</a>
                     </div>
                     <div>
-                        <img src={require('..//images/ordertracker.png')} alt=""
-                            style={{
-                                height: 700,
-                                width: 700,
-                                marginBottom: 3,
-                                marginTop: 5,
-                                marginLeft: 3,
-                            }} />
+                        <img src={require('..//images/ordertracker.png')} className="orderImg" alt="" />
                     </div>
                 </div>
             </div>

@@ -134,3 +134,27 @@ body {
   border: 2px solid grey;
   border-radius: 10px;
 }
+
+.movImg {
+    height:550px;
+    width:700px;
+    margin-bottom:3px;
+    margin-top:5px;
+    margin-left:3px;
+}
+
+.nhlImg {
+    height: 350px;
+    width: 700px;
+    margin-bottom: 3px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+
+.orderImg {
+    height: 700px;
+    width: 700px;
+    margin-bottom: 3px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
