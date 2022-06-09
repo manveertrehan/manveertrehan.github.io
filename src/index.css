@@ -136,24 +136,24 @@ body {
 }
 
 .movImg {
-    height:550px;
-    width:700px;
+    max-width: 99.2%;
+    height: auto;
     margin-bottom:3px;
     margin-top:5px;
     margin-left:3px;
 }
 
 .nhlImg {
-    height: 350px;
-    width: 700px;
+    max-width: 99.2%;
+    height: auto;
     margin-bottom: 3px;
     margin-top: 5px;
     margin-left: 3px;
 }
 
 .orderImg {
-    height: 700px;
-    width: 700px;
+    max-width: 99.2%;
+    height: auto;
     margin-bottom: 3px;
     margin-top: 5px;
     margin-left: 3px;
