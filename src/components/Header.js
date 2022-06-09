@@ -25,7 +25,7 @@ export default class Header extends React.Component {
                     </a>
                 </div>
                 <div>
-                    <a href="../docs/mtrehan.pdf" target="_blank">
+                    <a href="../docs/mtrehan.pdf">
                         <img src={require('../images/rlogo.png')} className="logo" alt="resume_logo" />
                     </a>
                 </div>
