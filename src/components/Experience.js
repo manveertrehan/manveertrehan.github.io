@@ -17,7 +17,7 @@ export default class Experience extends React.Component {
                             <img src={require('..//images/link.png')} className="link" alt="" />
                         </a>
                         <div className="date">
-                            May 2021 - Aug 2021
+                            June 2021 - July 2021
                         </div>
                     </div>
                     <div className="jobTitle">
@@ -48,12 +48,13 @@ export default class Experience extends React.Component {
                         Co-founder
                     </div>
                     <div className="listBody">
-                        • Tuned and optimized GPC scripts that run on hundreds of video game consoles daily by manufacturers in
-                        order to increase production of inventory by approx. 5-7% while reducing the risk of detection of our bots by
-                        moderators.
+                        • Used GPC to tune and optimize scripts used by 100s of consoles daily to generate in-game tokens, resulting in
+                        a 7% increase of token production.
                         <br></br>
-                        • Marketed a video game currency/goods distribution business into becoming the top distributor on multiple
-                        social platforms with 20-30 daily customers and over $300,000 of revenue in year 1.
+                        • Designed and implemented an efficient process that increased both the reliability as well as the productivity of
+                        the company, which led to over $300,000 of revenue in the first year.
+                        <br></br>
+                        • Accumulated 10,000+ total followers through strategic advertising.
                     </div>
 
                     <div className="divider">
