@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.75cfcce7.css",
-    "main.js": "/static/js/main.bfd68ac0.js",
+    "main.js": "/static/js/main.020d1498.js",
     "static/js/787.0cd2892f.chunk.js": "/static/js/787.0cd2892f.chunk.js",
     "static/media/moviepred.png": "/static/media/moviepred.323bb6e5b4c2050739a3.png",
     "static/media/mt.png": "/static/media/mt.2f60356f7505d6a19ad1.png",
     "static/media/playofftracker.png": "/static/media/playofftracker.bf7811c056b4c4d53901.png",
     "static/media/ordertracker.png": "/static/media/ordertracker.588416df83ce0f370a25.png",
+    "static/media/ManveerTrehanResume.pdf": "/static/media/ManveerTrehanResume.e6e77f5b202fe9b1bd9d.pdf",
     "static/media/maillogo.png": "/static/media/maillogo.959e51845cc425da08c9.png",
     "static/media/rlogo.png": "/static/media/rlogo.c1cfbc818d2b1ba7f06c.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.75cfcce7.css.map": "/static/css/main.75cfcce7.css.map",
-    "main.bfd68ac0.js.map": "/static/js/main.bfd68ac0.js.map",
+    "main.020d1498.js.map": "/static/js/main.020d1498.js.map",
     "787.0cd2892f.chunk.js.map": "/static/js/787.0cd2892f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75cfcce7.css",
-    "static/js/main.bfd68ac0.js"
+    "static/js/main.020d1498.js"
   ]
 }
