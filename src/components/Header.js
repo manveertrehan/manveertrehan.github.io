@@ -1,4 +1,5 @@
 import React from 'react';
+import pdf from '../docs/ManveerTrehanResume.pdf'
 
 
 export default class Header extends React.Component {
@@ -25,7 +26,7 @@ export default class Header extends React.Component {
                     </a>
                 </div>
                 <div>
-                    <a href="../docs/mtrehan.pdf">
+                    <a href= {pdf} target="_blank">
                         <img src={require('../images/rlogo.png')} className="logo" alt="resume_logo" />
                     </a>
                 </div>
