@@ -129,26 +129,10 @@ body {
   border-radius: 10px;
 }
 
-.movImg {
+.projImg {
     max-width: 99.2%;
     height: auto;
     margin-bottom:3px;
     margin-top:5px;
     margin-left:3px;
-}
-
-.nhlImg {
-    max-width: 99.2%;
-    height: auto;
-    margin-bottom: 3px;
-    margin-top: 5px;
-    margin-left: 3px;
-}
-
-.orderImg {
-    max-width: 99.2%;
-    height: auto;
-    margin-bottom: 3px;
-    margin-top: 5px;
-    margin-left: 3px;
 }

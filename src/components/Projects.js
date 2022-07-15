@@ -17,7 +17,7 @@ export default class Projects extends React.Component {
                         </div>
                         <div>
                             <a href="https://github.com/manveertrehan/movie-predictor-app" target="_blank">
-                                <img src={require('..//images/link.png')} className="link" alt="" />
+                                <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
                             </a>
                         </div>
                     </div>
@@ -31,7 +31,7 @@ export default class Projects extends React.Component {
                     synopses) and scikit-learn for other preprocessing and training of the final model.
                     </div>
                     <div>
-                        <img src={require('..//images/moviepred.png')} className="movImg" alt="" />
+                        <img src={require('..//images/moviepred.png')} className="projImg" alt="Movie Predictor app demo" />
                     </div>
                 </div>
 
@@ -46,7 +46,7 @@ export default class Projects extends React.Component {
                         </div>
                         <div>
                             <a href="https://github.com/manveertrehan/NHL-Playoff-Tracker" target="_blank">
-                                <img src={require('..//images/link.png')} className="link" alt="" />
+                                <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
                             </a>
                         </div>
                     </div>
@@ -61,7 +61,34 @@ export default class Projects extends React.Component {
                         <a href="https://manveertrehan.github.io/NHL-Playoff-Tracker/" target="_blank">Try it out!</a>
                     </div>
                     <div>
-                        <img src={require('..//images/playofftracker.png')} className="nhlImg" alt="" />
+                        <img src={require('..//images/playofftracker.png')} className="projImg" alt="NHL Playoff Status Tracker demo" />
+                    </div>
+                </div>
+
+                <div className="divider">
+                    _
+                </div>
+
+                <div className='projectBackground'>
+                    <div className="rowLine">
+                        <div className="listItem">
+                            Blackjack
+                        </div>
+                        <div>
+                            <a href="https://github.com/manveertrehan/blackjack" target="_blank">
+                                <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
+                            </a>
+                        </div>
+                    </div>
+                    <div className="jobTitle">
+                        JavaScript + CSS + HTML
+                    </div>
+                    <div className="listBody">
+                        A simple JavaScript Blackjack app with betting.  
+                        <a href="https://manveertrehan.github.io/blackjack/" target="_blank">Play it here!</a>
+                    </div>
+                    <div>
+                        <img src={require('..//images/blackjack.png')} className="projImg" alt="Blackjack app demo" />
                     </div>
                 </div>
 
@@ -76,7 +103,7 @@ export default class Projects extends React.Component {
                         </div>
                         <div>
                             <a href="https://github.com/manveertrehan/Coin-Order-Tracker" target="_blank">
-                                <img src={require('..//images/link.png')} className="link" alt="" />
+                                <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
                             </a>
                         </div>
                     </div>
@@ -90,7 +117,7 @@ export default class Projects extends React.Component {
                         <a href="https://manveertrehan.github.io/Coin-Order-Tracker/" target="_blank">Try it out!</a>
                     </div>
                     <div>
-                        <img src={require('..//images/ordertracker.png')} className="orderImg" alt="" />
+                        <img src={require('..//images/ordertracker.png')} className="projImg" alt="Coin order tracker app demo" />
                     </div>
                 </div>
             </div>

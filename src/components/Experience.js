@@ -14,7 +14,7 @@ export default class Experience extends React.Component {
                             TCG
                         </div>
                         <a href="https://trehanconsulting.com/" target="_blank">
-                            <img src={require('..//images/link.png')} className="link" alt="" />
+                            <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
                         </a>
                         <div className="date">
                             June 2021 - July 2021
@@ -27,7 +27,7 @@ export default class Experience extends React.Component {
                         • Worked on the design, improvement, and addition of front and back end features on the company’s main
                         website
                         <br></br>
-                        • Updated and added new content to the front end of the company’s webpage with HTML + CSS.
+                        • Updated and added new content to the front end of the company’s webpage with JavaScript, HTML + CSS.
                     </div>
                     <div className="divider">
                         _
@@ -38,7 +38,7 @@ export default class Experience extends React.Component {
                             Panda Coins
                         </div>
                         <a href="https://twitter.com/pandaspicytre2k" target="_blank">
-                            <img src={require('..//images/link.png')} className="link" alt="" />
+                            <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
                         </a>
                         <div className="date">
                             Jun 2020 - Sep 2021
