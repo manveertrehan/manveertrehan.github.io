@@ -28,6 +28,8 @@ export default class Experience extends React.Component {
                         website
                         <br></br>
                         • Updated and added new content to the front end of the company’s webpage with JavaScript, HTML + CSS.
+                        <br></br>
+                        • Designed and implemented a mock Caf ́e kiosk menu app in React to serve as a demo
                     </div>
                     <div className="divider">
                         _
@@ -51,7 +53,7 @@ export default class Experience extends React.Component {
                         • Used GPC to tune and optimize scripts used by 100s of consoles daily to generate in-game tokens, resulting in
                         a 7% increase of token production.
                         <br></br>
-                        • Designed and implemented an efficient process that increased both the reliability as well as the productivity of
+                        • Designed and implemented an efficient order tracking process that increased both the reliability as well as the productivity of
                         the company, which led to over $300,000 of revenue in the first year.
                         <br></br>
                         • Accumulated 10,000+ total followers through strategic advertising.
