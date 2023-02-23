@@ -8,7 +8,30 @@ export default class Experience extends React.Component {
                 <div className="sectionHeading">
                     Work Experience
                 </div>
+
                 <div className='jobBackground'>
+
+                <div className="rowLine">
+                        <div className="listItem">
+                            Amazon
+                        </div>
+                        <a href="https://amazon.ca/" target="_blank">
+                            <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
+                        </a>
+                        <div className="date">
+                            May 2023 - August 2023
+                        </div>
+                    </div>
+                    <div className="jobTitle">
+                        SDE Intern
+                    </div>
+                    <div className="listBody">
+                        • Incoming SDE Intern
+                    </div>
+                    <div className="divider">
+                        _
+                    </div>
+
                     <div className="rowLine">
                         <div className="listItem">
                             TCG

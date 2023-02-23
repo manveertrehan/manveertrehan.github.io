@@ -1,5 +1,5 @@
 import React from 'react';
-import pdf from '../docs/MTrehanResume.pdf'
+import pdf from '../docs/ManveerTrehanResume.pdf'
 
 
 export default class Header extends React.Component {
