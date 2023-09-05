@@ -11,9 +11,7 @@ function App() {
   return (
     <div className="port">
       <div className="rowLine">
-        <div>
           <Header />
-        </div>
       </div>
       <hr></hr>
       <Projects />

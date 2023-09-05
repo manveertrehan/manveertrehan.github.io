@@ -16,17 +16,22 @@ export default class Experience extends React.Component {
                             Amazon
                         </div>
                         <a href="https://amazon.ca/" target="_blank">
-                            <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
+                            <img src={require('../resources/images/link.png')} className="link" alt="Open link in new tab symbol" />
                         </a>
                         <div className="date">
                             May 2023 - August 2023
                         </div>
                     </div>
                     <div className="jobTitle">
-                        SDE Intern
+                        SDE Intern - Alexa Smart Properties
                     </div>
                     <div className="listBody">
-                        • Incoming SDE Intern
+                        • Completed full-stack internationalization work on a customer facing product that allows enterprise property
+                        owners and managers to build and deploy custom Alexa Skills, resulting in extended functionality to Canada
+                        and additional backend and frontend framework for extension to other future locales
+                        <br></br>
+                        • Designed and implemented a script that saves dev effort of 2000+ lines of individually copy/pasting resource
+                        strings for every new locale that is added to the service and translated through an internal translation tool.
                     </div>
                     <div className="divider">
                         _
@@ -37,7 +42,7 @@ export default class Experience extends React.Component {
                             TCG
                         </div>
                         <a href="https://trehanconsulting.com/" target="_blank">
-                            <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
+                            <img src={require('../resources/images/link.png')} className="link" alt="Open link in new tab symbol" />
                         </a>
                         <div className="date">
                             June 2021 - July 2021
@@ -63,7 +68,7 @@ export default class Experience extends React.Component {
                             Panda Coins
                         </div>
                         <a href="https://twitter.com/pandaspicytre2k" target="_blank">
-                            <img src={require('..//images/link.png')} className="link" alt="Open link in new tab symbol" />
+                            <img src={require('../resources/images/link.png')} className="link" alt="Open link in new tab symbol" />
                         </a>
                         <div className="date">
                             Jun 2020 - Sep 2021

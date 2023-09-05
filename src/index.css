@@ -23,7 +23,7 @@ body {
     margin: 10px 0 4px 0;
     padding: 20px;
     position: relative;
-    box-shadow: 0 2px 4px 0 rgb(128, 190, 119), 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px 0 rgb(236, 204, 171), 0 2px 5px 0 rgba(0, 0, 0, 0.1);
 }
 
 .rowLine {
@@ -33,11 +33,9 @@ body {
 
 .img {
     height: 135px;
-    width: 125px;
+    width: 140px;
     display: flex;
     margin-left: auto;
-    border: 3px solid black;
-    border-radius: 300px;
 }
 
 .nameHeader {
@@ -118,7 +116,7 @@ body {
 }
 
 .projectBackground {
-    background-color: rgb(209, 230, 207);
+    background-color: rgb(243, 228, 214);
     border: 2px solid grey;
     border-radius: 10px;
 }
