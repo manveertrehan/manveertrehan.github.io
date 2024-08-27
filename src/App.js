@@ -11,15 +11,15 @@ function App() {
   return (
     <div className="port">
       <div className="rowLine">
-          <Header />
-      </div>
-      <hr></hr>
-      <Projects />
-      <div className="blank">
-      -
+        <Header />
       </div>
       <hr></hr>
       <Experience />
+      <div className="blank">
+        -
+      </div>
+      <hr></hr>
+      <Projects />
     </div>
   );
 }

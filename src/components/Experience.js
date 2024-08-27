@@ -11,7 +11,33 @@ export default class Experience extends React.Component {
 
                 <div className='jobBackground'>
 
-                <div className="rowLine">
+                    <div className="rowLine">
+                        <div className="listItem">
+                            Amazon Web Services
+                        </div>
+                        <a href="https://aws.amazon.com/" target="_blank">
+                            <img src={require('../resources/images/link.png')} className="link" alt="Open link in new tab symbol" />
+                        </a>
+                        <div className="date">
+                            May 2024 - August 2024
+                        </div>
+                    </div>
+                    <div className="jobTitle">
+                        SDE Intern - AWS EBS Stats
+                    </div>
+                    <div className="listBody">
+                        • Designed and implemented a federated query system that provides customers with the ability to query their
+                        data across 30+ AWS regions in an efficient single query, rather than the original single-zone based querying.
+                        <br></br>
+                        • Created and reviewed thoroughly detailed documentation for building the federated query system and moving
+                        towards productionalizing the POC.
+                    </div>
+                    <div className="divider">
+                        _
+                    </div>
+
+
+                    <div className="rowLine">
                         <div className="listItem">
                             Amazon
                         </div>
@@ -28,7 +54,7 @@ export default class Experience extends React.Component {
                     <div className="listBody">
                         • Completed full-stack internationalization work on a customer facing product that allows enterprise property
                         owners and managers to build and deploy custom Alexa Skills, resulting in extended functionality to Canada
-                        and additional backend and frontend framework for extension to other future locales
+                        and additional backend and frontend framework for extension to other future locales.
                         <br></br>
                         • Designed and implemented a script that saves dev effort of 2000+ lines of individually copy/pasting resource
                         strings for every new locale that is added to the service and translated through an internal translation tool.
